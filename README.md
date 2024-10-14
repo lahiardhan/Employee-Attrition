@@ -1,31 +1,13 @@
-# Proyek Pertama: Menyelesaikan Permasalahan Human Resources
+# Employee Attrition Rate Prediction
 
-## Business Understanding
-
-Jelaskan latar belakang bisnis dari perushaan tersebut.
-
-### Permasalahan Bisnis
-
-Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
-
-### Cakupan Proyek
+## Cakupan Proyek
 
 1. Mencari tahu faktor apa saja yang memengaruhi tingginya attrition rate (keluar) karyawan di perusahaan Jaya Jaya Maju
 2. Memprediksi karyawan yang berpotensi tinggi untuk keluar dari perusahaan berdasarkan data yang tersedia?
 
-### Persiapan
+## Persiapan
 
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv
-
-Setup environment:
-
-```
-
-```
-
-## Business Dashboard
-
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
 
 ## Conclusion
 
@@ -44,5 +26,20 @@ Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga l
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
-- action item 1
-- action item 2
+1.  Tinjau dan Tingkatkan Struktur Gaji
+    Pertimbangkan peningkatan gaji atau insentif untuk karyawan dengan pendapatan bulanan lebih rendah, terutama bagi mereka yang menunjukkan kinerja baik, untuk meningkatkan retensi.
+
+2.  Perbaiki Program Pengembangan Karir
+    Buat jalur pengembangan karir dan program peningkatan keterampilan bagi karyawan muda agar mereka lebih termotivasi untuk bertahan dan berkembang di perusahaan.
+
+3.  Tawarkan Fleksibilitas Kerja
+    Pertimbangkan kebijakan bekerja dari rumah atau jadwal fleksibel bagi karyawan yang tinggal jauh dari kantor untuk meningkatkan kenyamanan mereka.
+
+4.  Optimalisasi Kebijakan Kenaikan Gaji
+    Pastikan proses kenaikan gaji transparan dan berorientasi pada kinerja, sehingga karyawan merasa dihargai dan termotivasi untuk tetap di perusahaan.
+
+5.  Fokus pada Program Kesejahteraan Karyawan
+    Kembangkan program kesejahteraan karyawan yang mencakup kesehatan fisik, mental, dan keseimbangan kerja-hidup untuk menciptakan lingkungan kerja yang suportif dan mencegah burnout.
+
+6.  Membuat Program Kepercayaan dan Penghargaan
+    Berikan penghargaan kepada karyawan yang telah bekerja lama atau yang memiliki kontribusi besar, sehingga meningkatkan loyalitas mereka terhadap perusahaan.
