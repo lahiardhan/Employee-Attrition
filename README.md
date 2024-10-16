@@ -22,7 +22,7 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/emplo
 
 2. Untuk memprediksi karyawan yang berpotensi tinggi untuk keluar, kita dapat menggunakan model prediktif seperti Random Forest yang telah dibangun. Model ini menggunakan kombinasi dari beberapa fitur utama yang diidentifikasi, seperti pendapatan bulanan, usia, total tahun bekerja, jarak dari rumah ke tempat kerja, dan lain-lain. Dengan model ini, HR dapat memasukkan data karyawan dan mendapatkan prediksi mengenai kemungkinan karyawan tersebut akan keluar, sehingga langkah-langkah pencegahan dapat diambil untuk mengurangi tingkat attrition.
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
